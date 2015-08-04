@@ -1,0 +1,1 @@
+package provide newrelic_common_wrap 0.1
